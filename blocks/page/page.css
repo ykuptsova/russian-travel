@@ -7,7 +7,16 @@
        url("../../fonts/Inter-Regular.woff?v=3.19") format("woff");
 }
 
+@font-face {
+  font-family: 'Inter';
+  font-style:  normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url("Inter-Black.woff2?v=3.19") format("woff2"),
+       url("Inter-Black.woff?v=3.19") format("woff");
+}
 
 .page {
   font-family: 'Inter', Arial, sans-serif;
+  background-color: #2A2C2F;
 }

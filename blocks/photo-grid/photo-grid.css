@@ -1,1 +1,6 @@
-.photo-grid {}
+.photo-grid {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 96px;
+}

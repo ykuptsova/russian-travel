@@ -1,10 +1,9 @@
 .header {
   display: flex;
   flex-direction: row;
-
-  background-color: green;
-  height: 40px;
-  margin: 28px 48px 56px 48px;
+  justify-content: space-between;
+  align-items: baseline;
+  margin: 28px 48px 28px 48px;
 }
 
 
