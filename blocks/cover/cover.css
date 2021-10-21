@@ -4,3 +4,16 @@
   align-items: center;
   margin: 92px 0;
 }
+
+
+@media (max-width: 768px) {
+  .cover {
+    margin: 90px 0 88px 0;
+  }
+} 
+
+@media (max-width: 320px) {
+  .cover {
+    margin: 66px 0 64px 0;
+  }
+} 

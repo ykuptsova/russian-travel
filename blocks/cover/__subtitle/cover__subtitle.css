@@ -7,3 +7,12 @@
   margin: 32px 0 0 0;
   text-align: center;
 }
+
+@media (max-width: 320px) {
+  .cover__subtitle {
+    font-size: 14px;
+    line-height: 16px;
+    max-width: 280px;
+    margin: 16px 0 0 0;
+  }
+} 
