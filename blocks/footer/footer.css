@@ -5,6 +5,11 @@
   margin: 24px 48px;
 }
 
+@media (max-width: 768px) {
+  .footer {
+    margin: 24px 24px;
+  }
+} 
 
 @media (max-width: 760px) {
   .footer {

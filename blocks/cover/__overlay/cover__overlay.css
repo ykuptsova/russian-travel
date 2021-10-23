@@ -7,6 +7,7 @@
   width: 100%;
   max-width: 1184px;
   background-image: url("./../../../images/cover-trains.jpg");
+  background-position: center;
   background-size: cover;
   position: relative;
   z-index: 1;
